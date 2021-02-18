@@ -145,4 +145,11 @@
     .item-carousel-card{
         margin-top: 100px;
     }
+
+    div.dataTables_wrapper {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
 }
